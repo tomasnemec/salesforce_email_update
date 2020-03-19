@@ -1,11 +1,11 @@
-# Salesforec email update with Dataloader
+# Salesforce email update with Dataloader
 
 # Prerequisites
 *  Mailbox export in `.csv` format
 *  Data Loader application
 
 # Suggestions
-*  If you can not extport a mailbox content straigth into .csv format, there is an option (in Gmail mailbox) to have teh mailbox downloaded as .mbox. 
+*  If you can not extport a mailbox content straigth into .csv format, there is an option (in Gmail mailbox) to have the mailbox downloaded as .mbox. 
 *  Then you can use [MBOX to CSV Converter](https://apps.apple.com/us/app/mbox-to-csv-converter/id1099737378?ls=1&mt=12) to get the right format.
 
 *  [Data Loader](https://help.salesforce.com/articleView?id=data_loader.htm&type=5) can be download directly from your Salesforce instance.

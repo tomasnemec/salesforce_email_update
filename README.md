@@ -10,7 +10,7 @@
 
 *  [Data Loader](https://help.salesforce.com/articleView?id=data_loader.htm&type=5) can be download directly from your Salesforce instance.
 
-# How it works!**
+# How it works!
 1. Export mailbox content, convert it to .csv format and place the file named as `file.csv` into main directory.
 
 2. Beforce import is done, it's necessary to create csv file `contact_id.csv` - example file. This file consists of contact email and it's salesforce id. You can generate this file using Data Loader where you connect to your production instance and export Email and Id of contact (select email, id from contact).

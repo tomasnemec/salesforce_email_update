@@ -19,9 +19,7 @@
 
 4. Once the file is converted, use Data Loader > Import to import `newfile0` and `newfile1` if not empty into "Email Message" object. Select right mapping.
 
-<img src="sf_object.png"  alt="sf_object" width="50%" height="50%"/>
-
-<img src="mapping.png"  alt="mapping" width="20%" height="20%"/>
+<img src="sf_object.png"  alt="sf_object" width="50%" height="50%"/> <img src="mapping.png"  alt="mapping" width="20%" height="20%"/>
 
 
 5. You should see than all emails mappen in "Email Message object"
